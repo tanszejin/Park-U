@@ -1,2 +1,2 @@
-# sc2006-Park-U
-App project for SC2006
+# Park-U
+Carpark finder application with live location tracking, allowing users to find the nearest available carparks according to your location. The app also displays the number of lots available in each carpark, as well as the type of lots. Through a comprehensive search function, you can also find carparks near the location that you will be heading to. The app allows users to save their favourite carparks, and give them each carpark a rating.
